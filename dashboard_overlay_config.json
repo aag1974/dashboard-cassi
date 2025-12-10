@@ -1,0 +1,20 @@
+{
+  "title": "Dashboard Master - Header Overlay",
+  "created": "2025-11-27T09:31:04.218699",
+  "architecture": "header_overlay",
+  "description": "Sistema onde header SPSS sobrepõe interface e sidebar navega",
+  "items": [
+    {
+      "id": "cassi-nps-2025",
+      "title": "CASSI NPS 2025",
+      "file": "BDD_CASSI_NPS_2025_Analitico.html",
+      "description": "",
+      "overlay": true,
+      "added": "2025-12-10T13:45:56.342649",
+      "icon": "9",
+      "type": "file"
+    }
+  ],
+  "updated": "2025-12-10T13:46:15.370069",
+  "client_logo": ""
+}
