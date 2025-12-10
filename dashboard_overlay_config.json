@@ -8,13 +8,13 @@
       "id": "cassi-nps-2025",
       "title": "CASSI NPS 2025",
       "file": "BDD_CASSI_NPS_2025_Analitico.html",
-      "description": "",
+      "description": "Pesquisa NPS CASSI 2025",
       "overlay": true,
       "added": "2025-12-10T13:45:56.342649",
-      "icon": "9",
+      "icon": "📈",
       "type": "file"
     }
   ],
-  "updated": "2025-12-10T13:46:15.370069",
-  "client_logo": ""
+  "updated": "2025-12-10T13:54:07.737612",
+  "client_logo": "https://github.com/aag1974/dashboard-cassi/blob/923c4340a57ab3e786e2eaf71a4e1866122fc4b2/logo-cassi.png"
 }
